@@ -1,7 +1,7 @@
 <template>
   <v-container grid-list-xl>
     <h2 class="pl-4">
-      <span>Web</span>
+      <span>Personal Projects</span>
       <span class="green--text">Portfolio</span>
     </h2>
     <v-layout row justify-center align-center wrap class="mt-4 pt-2">
