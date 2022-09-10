@@ -124,25 +124,25 @@ export default {
   data() {
     return {
       icons: [
-        { href: "", icon: "fab fa-github" },
+        { href: "https://github.com/C-Larkin02", icon: "fab fa-github" },
+        // {
+        //   href: "",
+        //   icon: "fab fa-stack-overflow"
+        // },
+        // { href: "", icon: "fab fa-twitter" },
         {
-          href: "",
-          icon: "fab fa-stack-overflow"
-        },
-        { href: "", icon: "fab fa-twitter" },
-        {
-          href: "www.linkedin.com/in/cianlarkin02",
+          href: "https://www.linkedin.com/in/cianlarkin02/",
           icon: "fab fa-linkedin-in"
         },
-        {
-          href: "",
-          icon: "fab fa-xing"
-        },
-        {
-          href: "",
-          icon: "fab fa-facebook-f"
-        },
-        { href: "", icon: "fab fa-instagram" }
+        // {
+        //   href: "",
+        //   icon: "fab fa-xing"
+        // },
+        // {
+        //   href: "",
+        //   icon: "fab fa-facebook-f"
+        // },
+        // { href: "", icon: "fab fa-instagram" }
       ],
       text1: ["Computer Science Student", "Software Engineer", "Web Developer"],
       leftImage: "https://i.imgur.com/QALxhwO.jpeg",
