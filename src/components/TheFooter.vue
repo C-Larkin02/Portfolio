@@ -2,7 +2,7 @@
   <v-footer class="pa-3">
     Developed by Cian Larkin
     <v-icon small color="red"></v-icon>&nbsp&nbsp
-    <v-icon small color="green"></v-icon>
+    <v-icon small color="blue"></v-icon>
     <v-spacer></v-spacer>
     <div>&copy; {{ new Date().getFullYear() }}</div>
   </v-footer>

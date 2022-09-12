@@ -8,7 +8,7 @@
     </v-layout>
     <br>
     <br>
-    <v-btn large flat to="/blog" class="green--text">
+    <v-btn large flat to="/blog" class="blue--text">
       <v-icon>arrow_back</v-icon>Back to Blog
     </v-btn>
   </v-layout>

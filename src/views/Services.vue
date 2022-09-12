@@ -4,7 +4,7 @@
       <v-flex xs12 sm12 md12 lg12 xl12>
         <h2 class="pl-4">
           <span>My</span>
-          <span class="green--text">Services</span>
+          <span class="blue--text">Services</span>
         </h2>
       </v-flex>
       <v-flex v-for="service in services" :key="service.src" xs6 sm3 md3 lg3 xl3>
@@ -26,7 +26,7 @@
       <v-flex xs12 sm12 md12 lg12 xl12>
         <h2 class="pl-4">
           <span>My</span>
-          <span class="green--text">Clients</span>
+          <span class="blue--text">Clients</span>
         </h2>
       </v-flex>
 
@@ -46,7 +46,7 @@
               <v-expand-transition>
                 <div
                   v-if="!hover"
-                  class="transition-fast-in-fast-out green v-img--reveal"
+                  class="transition-fast-in-fast-out blue v-img--reveal"
                   style="height: 100%;"
                 ></div>
               </v-expand-transition>

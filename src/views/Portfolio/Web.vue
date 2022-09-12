@@ -2,7 +2,7 @@
   <v-container grid-list-xl>
     <h2 class="pl-4">
       <span>Personal Projects</span>
-      <span class="green--text">Portfolio</span>
+      <span class="blue--text">Portfolio</span>
     </h2>
     <v-layout row justify-center align-center wrap class="mt-4 pt-2">
       <v-dialog
@@ -31,16 +31,16 @@
             <h3 class="headline mb-0">
               <span>Technology</span>
             </h3>
-            <v-chip color="green" text-color="white">{{project.tech.tech1}}</v-chip>
-            <v-chip color="green" text-color="white">{{project.tech.tech2}}</v-chip>
-            <v-chip color="green" text-color="white">{{project.tech.tech3}}</v-chip>
-            <v-chip color="green" text-color="white">{{project.tech.tech4}}</v-chip>
+            <v-chip color="blue" text-color="white">{{project.tech.tech1}}</v-chip>
+            <v-chip color="blue" text-color="white">{{project.tech.tech2}}</v-chip>
+            <v-chip color="blue" text-color="white">{{project.tech.tech3}}</v-chip>
+            <v-chip color="blue" text-color="white">{{project.tech.tech4}}</v-chip>
           </v-card-text>
           <v-card-actions>
-            <v-btn flat large dark color="green" :href="project.git" target="_blank">
+            <v-btn flat large dark color="blue" :href="project.git" target="_blank">
               <v-icon left>fab fa-github</v-icon>GitHub
             </v-btn>
-            <v-btn large flat dark color="green" :href="project.demo" target="_blank">
+            <v-btn large flat dark color="blue" :href="project.demo" target="_blank">
               <v-icon left>fas fa-desktop</v-icon>Demo
             </v-btn>
           </v-card-actions>

@@ -95,15 +95,15 @@
         <h2>
           <span>Design</span>
 
-          <span class="green--text">Skills</span>
+          <span class="blue--text">Skills</span>
         </h2>
         <br>
         <strong>Photoshop</strong>
-        <v-progress-linear v-model="buffer1" :buffer-value="bufferValue" color="green" height="16"></v-progress-linear>
+        <v-progress-linear v-model="buffer1" :buffer-value="bufferValue" color="blue" height="16"></v-progress-linear>
         <strong>Adobe XD</strong>
-        <v-progress-linear v-model="buffer2" :buffer-value="bufferValue" color="green" height="16"></v-progress-linear>
+        <v-progress-linear v-model="buffer2" :buffer-value="bufferValue" color="blue" height="16"></v-progress-linear>
         <strong>Zeplin</strong>
-        <v-progress-linear v-model="buffer3" :buffer-value="bufferValue" color="green" height="16"></v-progress-linear>
+        <v-progress-linear v-model="buffer3" :buffer-value="bufferValue" color="blue" height="16"></v-progress-linear>
       </v-flex> -->
       <v-flex xs12 sm12 md4 lg5 xl5 class="mx-2 pt-4">
         <h2>
@@ -111,21 +111,21 @@
           <span class="blue--text">Skills</span>
         </h2>
         <br>
-        <strong>JavaScript&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;HTML &nbsp;&nbsp;&nbsp;&nbsp;CSS &nbsp;&nbsp;&nbsp;&nbsp;C &nbsp;&nbsp;&nbsp;&nbsp;VUE &nbsp;&nbsp;&nbsp;Bootstrap &nbsp;&nbsp;&nbsp;&nbsp;SQL &nbsp;&nbsp;&nbsp;&nbsp;MATLAB&nbsp;&nbsp;&nbsp;&nbsp;R</strong>
+        <strong>JavaScript&nbsp;&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;&nbsp;HTML &nbsp;&nbsp;&nbsp;&nbsp;CSS &nbsp;&nbsp;&nbsp;&nbsp;C &nbsp;&nbsp;&nbsp;&nbsp;VUE &nbsp;&nbsp;&nbsp;Bootstrap &nbsp;&nbsp;&nbsp;&nbsp;SQL &nbsp;&nbsp;&nbsp;&nbsp;MATLAB&nbsp;&nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;Firebase&nbsp;&nbsp;&nbsp;Wireshark&nbsp;&nbsp;&nbsp;Vuetify</strong>
         <!-- <v-list>
           <v-list-item>
             JavaScript
           </v-list-item>
         </v-list> -->
         <!-- <strong>VUE/NUXT</strong>
-        <v-progress-linear v-model="buffer4" :buffer-value="bufferValue" color="green" height="16"></v-progress-linear>
+        <v-progress-linear v-model="buffer4" :buffer-value="bufferValue" color="blue" height="16"></v-progress-linear>
         <strong>HTML/CSS</strong>
-        <v-progress-linear v-model="buffer5" :buffer-value="bufferValue" color="green" height="16"></v-progress-linear>
+        <v-progress-linear v-model="buffer5" :buffer-value="bufferValue" color="blue" height="16"></v-progress-linear>
         <strong>JavaScript</strong>
-        <v-progress-linear v-model="buffer6" :buffer-value="bufferValue" color="green" height="16"></v-progress-linear> -->
+        <v-progress-linear v-model="buffer6" :buffer-value="bufferValue" color="blue" height="16"></v-progress-linear> -->
       </v-flex>
       <div class="mt-4 pt-2">
-        <v-btn
+        <!-- <v-btn
           href="https://docs.google.com/document/d/1WSR42FEgUahJuR_RArW1wz7TfUBlgj13zekRidmQgs4/edit?usp=sharing"
           target="_blank"
           color="blue"
@@ -134,7 +134,7 @@
         >
           Download Resume
           <v-icon right dark>fas fa-file-download</v-icon>
-        </v-btn>
+        </v-btn> -->
       </div>
     </v-layout>
   </v-layout>

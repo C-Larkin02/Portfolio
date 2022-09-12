@@ -82,7 +82,7 @@ A diligent and positive person with excellent communication skills developed ove
             fab
             dark
             outline
-            color="green"
+            color="blue"
             :href="icon.href"
             target="_blank"
           >
@@ -182,7 +182,7 @@ export default {
   animation: rocking 1s ease-in-out 0s infinite;
 }
 .vue-typer .custom.caret.typing {
-  background-color: green;
+  background-color: rgb(16, 108, 199);
 }
 .vue-typer .custom.caret.selecting {
   display: inline-block;
