@@ -12,21 +12,21 @@
             <v-list-tile-title>RESUME</v-list-tile-title>
           </v-list-tile-content>
         </v-list-tile>
-        <v-list-tile active-class="blue--text" to="/services">
+        <!-- <v-list-tile active-class="blue--text" to="/services">
           <v-list-tile-content>
             <v-list-tile-title>SERVICES</v-list-tile-title>
-          </v-list-tile-content>
-        </v-list-tile>
+          </v-list-tile-content> -->
+        <!-- </v-list-tile> -->
         <v-list-tile active-class="blue--text" to="/portfolio">
           <v-list-tile-content>
             <v-list-tile-title>PORTFOLIO</v-list-tile-title>
           </v-list-tile-content>
         </v-list-tile>
-        <v-list-tile active-class="blue--text" to="/blog">
+        <!-- <v-list-tile active-class="blue--text" to="/blog">
           <v-list-tile-content>
             <v-list-tile-title>BLOG</v-list-tile-title>
-          </v-list-tile-content>
-        </v-list-tile>
+          </v-list-tile-content> -->
+        <!-- </v-list-tile> -->
         <v-list-tile active-class="blue--text" to="/contact">
           <v-list-tile-content>
             <v-list-tile-title>CONTACT</v-list-tile-title>
